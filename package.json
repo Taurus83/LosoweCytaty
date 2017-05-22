@@ -1,0 +1,32 @@
+{
+  "name": "kodilla-losowecytaty",
+  "version": "1.0.0",
+  "description": "losowe cytaty tweet",
+  "main": "Gruntfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taurus83/LosoweCytaty.git"
+  },
+  "keywords": [
+    "losowe",
+    "cytaty",
+    "tweet"
+  ],
+  "author": "Piotr Rucinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taurus83/LosoweCytaty/issues"
+  },
+  "homepage": "https://github.com/Taurus83/LosoweCytaty#readme"
+}
